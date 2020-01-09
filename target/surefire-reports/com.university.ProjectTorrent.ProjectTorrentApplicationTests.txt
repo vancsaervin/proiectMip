@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.university.ProjectTorrent.ProjectTorrentApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.862 s - in com.university.ProjectTorrent.ProjectTorrentApplicationTests
